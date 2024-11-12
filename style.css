@@ -339,6 +339,11 @@ body {
     font-size: 62.5%;
   }
 
+  .hero {
+    background-size: auto;
+    background-position: center;
+  }
+
   #hamburger-menu {
     display: inline-block;
   }
